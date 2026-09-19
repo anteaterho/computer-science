@@ -1,3 +1,6 @@
+# [09. 세트_02] ex_03
+# 학습 목표: 두 명단 비교하기 — update()로 여러 개 추가, discard()로 삭제
+
 java = ["Tesla", "Faraday", "Maxwell", "Ampere"]
 python = ["Hertz", "Edison", "Einstein", "Tesla", "Maxwell"]
 

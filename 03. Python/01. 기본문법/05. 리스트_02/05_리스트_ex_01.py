@@ -1,3 +1,6 @@
+# [05. 리스트_02] ex_01
+# 학습 목표: replace()로 필요 없는 글자를 지우고 슬라이싱으로 날짜·시간 나누기
+
 from datetime import datetime
 
 data = str(datetime.now())[:19]

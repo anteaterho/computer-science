@@ -1,3 +1,6 @@
+# [05. 리스트_02] ex_05
+# 학습 목표: random.choice()로 리스트에서 무작위로 하나 뽑기
+
 import random
 
 #names = ["Newton", "Faraday", "Edision", "Einstein", "Obama"]

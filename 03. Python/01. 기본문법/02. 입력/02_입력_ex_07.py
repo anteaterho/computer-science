@@ -1,3 +1,6 @@
+# [02. 입력] ex_07
+# 학습 목표: while True + break로 정해진 횟수만큼 반복하기, end= 옵션
+
 
 #for i in range(1, 16):
 #    print(i)

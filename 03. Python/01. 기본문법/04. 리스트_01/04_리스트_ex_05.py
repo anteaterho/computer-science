@@ -1,3 +1,6 @@
+# [04. 리스트_01] ex_05
+# 학습 목표: 문자열에서 특정 글자 찾기 — in / not in, count(), 슬라이싱
+
 a = "Life is too short"
 
 # print("문장의 길이 :", len(a))

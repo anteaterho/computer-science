@@ -1,3 +1,6 @@
+# [10. 딕셔너리_02] ex_08
+# 학습 목표: 딕셔너리를 조회표로 써서 주문받기 — while 반복과 키로 값 찾기
+
 menu = {"americano":4000, "latte":4500, "green tea":3500, "milk tea":4000}
 
 #print(menu)

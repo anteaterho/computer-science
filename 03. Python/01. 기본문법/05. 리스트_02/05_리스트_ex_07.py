@@ -1,3 +1,6 @@
+# [05. 리스트_02] ex_07
+# 학습 목표: random.choices(중복 허용)와 random.sample(중복 없음)의 차이
+
 import random
 
 station = "용산행, 문산행, 대화행, 서울역행, 홍대입구행, 인천공항행".split(", ")

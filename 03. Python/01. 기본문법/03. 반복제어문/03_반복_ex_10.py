@@ -1,3 +1,6 @@
+# [03. 반복제어문] ex_10
+# 학습 목표: random으로 주사위 굴리기 + while True와 elif 분기로 보드게임 만들기
+
 
 import random
 
