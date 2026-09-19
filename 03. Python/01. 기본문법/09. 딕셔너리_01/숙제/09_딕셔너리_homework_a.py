@@ -8,6 +8,8 @@
 #         answer = 1111 * l_dice[0]
 #     elif len(set_dice) == 2:
 #         count = 0
+#         l_dice.append(0)
+#         l_dice.append(0)
         
 #         for i in range(len(dice)):
 #             if l_dice[i] == dice[i]:

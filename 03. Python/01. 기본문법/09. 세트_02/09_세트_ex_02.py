@@ -8,4 +8,3 @@ print(colors)
 #colors.remove('green')
 colors.discard('green')
 print(colors)
-

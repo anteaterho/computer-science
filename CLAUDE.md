@@ -10,14 +10,20 @@ This is a **learning repository** — coursework for a Korean computer-science c
 - `02. C언어/` — C language (empty so far)
 - `03. Python/` — the only populated section; Python fundamentals
 
-Content is grouped into numbered subject folders (`01. 기본문법/`), then numbered topic folders (`01. 출력`, `02. 입력`, `03. 반복제어문`, `04. 리스트`). File names follow `NN_주제_ex_NN.py` (e.g. `01_출력_ex_01.py`); some homework files are named `homework.py`.
+Content is grouped into numbered subject folders (`01. 기본문법/`), then one folder per class session, numbered in order: `01. 출력`, `02. 입력`, `03. 반복제어문`, `04. 리스트_01` … `10. 딕셔너리_02`. A topic spanning several sessions gets a `_NN` suffix (`리스트_01/_02/_03`, `세트_01/_02`, `딕셔너리_01/_02`), so two folders may share a session number when one session covered two topics (`09. 세트_02`, `09. 딕셔너리_01`).
+
+Within a session folder:
+
+- exercises: `NN_주제_ex_NN.py` — the leading `NN` is the session number, the trailing one the exercise number as the instructor numbered it (e.g. `03_반복_ex_09.py`)
+- homework: a `숙제/` subfolder holding `NN_주제_homework_NN.py` plus any problem-statement images (`cbrain_과제*.png`)
+- `노트.md` — per-chapter study notes: what was learned, per-file summary, bugs worth revisiting, what to practice next. The `숙제/` folder may carry its own `노트.md`.
 
 ## Running exercises
 
 Each file is a standalone script. Run one with (paths contain spaces and Korean characters — always quote):
 
 ```bash
-python "03. Python/01. 기본문법/02. 입력/homework.py"
+python "03. Python/01. 기본문법/02. 입력/숙제/02_입력_homework_01.py"
 ```
 
 Files under `02. 입력` and later read from stdin via `input()`.

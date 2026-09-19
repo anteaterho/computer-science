@@ -11,3 +11,4 @@ price=list(ice.values())
 #kk = list(ice.items())
 print(type(price))
 print(sum(price))
+
