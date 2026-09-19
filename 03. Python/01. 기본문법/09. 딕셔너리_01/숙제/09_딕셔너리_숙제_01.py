@@ -1,3 +1,6 @@
+# [09. 딕셔너리_01] 숙제_01
+# 학습 목표: 주사위 4개 점수 계산 — set()으로 눈의 종류 수를 세어 경우 나누기, count()로 개수 확인
+
 # def solution(a,b,c,d):
 #     dice = [a,b,c,d]
 #     set_dice = set(dice)
