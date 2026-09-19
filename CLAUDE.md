@@ -16,7 +16,7 @@ Within a session folder:
 
 - exercises: `NN_주제_ex_NN.py` — the leading `NN` is the session number, the trailing one the exercise number as the instructor numbered it (e.g. `03_반복_ex_09.py`)
 - homework: a `숙제/` subfolder holding `NN_주제_homework_NN.py` plus any problem-statement images (`cbrain_과제*.png`)
-- `노트.md` — per-chapter study notes: what was learned, per-file summary, bugs worth revisiting, what to practice next. The `숙제/` folder may carry its own `노트.md`.
+- study notes: `NN_주제_노트.md` (e.g. `03_반복_노트.md`) — what was learned, per-file summary, bugs worth revisiting, what to practice next. A `숙제/` folder may carry its own `NN_주제_숙제_노트.md`.
 
 ## Running exercises
 
