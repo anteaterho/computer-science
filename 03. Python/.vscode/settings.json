@@ -8,5 +8,8 @@
   "editor.inlineSuggest.enabled": false,
   "editor.parameterHints.enabled": false,
   "editor.tabCompletion": "off",
-  "editor.wordBasedSuggestions": "off"
+  "editor.wordBasedSuggestions": "off",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.nonBasicASCII": false
 }
